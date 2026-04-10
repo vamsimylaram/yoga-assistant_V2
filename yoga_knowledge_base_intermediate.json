@@ -1,0 +1,658 @@
+[
+{
+"pose_name": "Mountain Pose",
+"sanskrit_name": "Tadasana",
+"benefits_list": ["grounding", "posture", "stability", "mind-body connection", "beginner"],
+"instructions": "Stand tall with feet hip-width apart, engaging your thigh muscles. Lift the crown of your head and let your arms hang naturally. Focus on distributing your weight evenly across your feet.",
+"smp_l_key": "SMPL_Standing_Neutral",
+"visual_prompt": "A person standing in Tadasana (Mountain Pose), demonstrating perfect posture, full body shot, minimalist setting, high detail."
+},
+{
+"pose_name": "Downward-Facing Dog",
+"sanskrit_name": "Adho Mukha Svanasana",
+"benefits_list": ["shoulders", "hamstrings", "calves", "stress", "full body stretch", "invigorating"],
+"instructions": "Start on hands and knees. Lift your hips up and back, forming an inverted 'V' shape. Keep hands shoulder-width apart, feet hip-width apart. Press into your hands and send your tailbone high.",
+"smp_l_key": "SMPL_Inversion_StandardV",
+"visual_prompt": "A flexible individual holding Adho Mukha Svanasana (Downward-Facing Dog) with straight back and legs, focusing on the long line of the spine."
+},
+{
+"pose_name": "Warrior I",
+"sanskrit_name": "Virabhadrasana I",
+"benefits_list": ["balance", "leg strength", "hip flexors", "chest opener", "focus"],
+"instructions": "Step one foot back, turning the heel slightly inward. Bend the front knee to 90 degrees, aligning it over the ankle. Square your hips forward and sweep your arms overhead, palms facing each other.",
+"smp_l_key": "SMPL_Standing_Warrior1",
+"visual_prompt": "A focused athlete in Virabhadrasana I (Warrior I Pose), arms reaching high, powerful stance, outdoor natural light."
+},
+{
+"pose_name": "Warrior II",
+"sanskrit_name": "Virabhadrasana II",
+"benefits_list": ["hip opener", "inner thighs", "stamina", "concentration", "shoulders"],
+"instructions": "From Warrior I, open your hips and torso to the side. Extend your arms parallel to the floor, gazing over the front hand. Maintain the 90-degree bend in the front knee.",
+"smp_l_key": "SMPL_Standing_Warrior2",
+"visual_prompt": "A person demonstrating the wide, powerful stance of Virabhadrasana II (Warrior II Pose), arms extended horizontally, full-frame shot."
+},
+{
+"pose_name": "Tree Pose",
+"sanskrit_name": "Vrksasana",
+"benefits_list": ["balance", "stability", "focus", "hip opener", "concentration"],
+"instructions": "Shift weight to one foot. Bring the sole of the opposite foot to the inner thigh or calf (avoid the knee). Press the foot and thigh together. Bring your hands to prayer or extend them overhead.",
+"smp_l_key": "SMPL_Standing_Balance",
+"visual_prompt": "A serene female model in Vrksasana (Tree Pose), hands in Anjali Mudra, standing on one leg, tranquil setting."
+},
+{
+"pose_name": "Triangle Pose",
+"sanskrit_name": "Trikonasana",
+"benefits_list": ["side stretch", "hips", "hamstrings", "back pain", "core"],
+"instructions": "Stand in a wide stance. Turn the front foot out 90 degrees. Hinge at the hip, reaching your front hand down to your shin or ankle. Extend the opposite arm toward the ceiling, creating a long line from your heel to your top hand.",
+"smp_l_key": "SMPL_Standing_LateralBend",
+"visual_prompt": "An accurate depiction of Trikonasana (Triangle Pose), emphasizing the straight front leg and the alignment of the spine."
+},
+{
+"pose_name": "Cobra Pose",
+"sanskrit_name": "Bhujangasana",
+"benefits_list": ["back strength", "chest opener", "digestion", "posture", "mild back pain"],
+"instructions": "Lie on your stomach. Place your hands under your shoulders. Inhale, press into your hands, and lift your chest off the floor, keeping a slight bend in your elbows and engaging your glutes gently.",
+"smp_l_key": "SMPL_Prone_MildBackbend",
+"visual_prompt": "A yogi performing a low, safe Bhujangasana (Cobra Pose), showing the neck in a neutral position, against a wooden floor."
+},
+{
+"pose_name": "Child's Pose",
+"sanskrit_name": "Balasana",
+"benefits_list": ["restorative", "stress relief", "calm", "gentle stretch", "hips", "anxiety"],
+"instructions": "Kneel on the floor, bring your big toes to touch, and separate your knees wide. Fold forward, resting your forehead on the mat. Extend your arms forward or place them alongside your body.",
+"smp_l_key": "SMPL_Kneeling_Restorative",
+"visual_prompt": "A peaceful figure resting deeply in Balasana (Child's Pose), forehead grounded, soft light, warm tones."
+},
+{
+"pose_name": "Bridge Pose",
+"sanskrit_name": "Setu Bandhasana",
+"benefits_list": ["chest opener", "back extension", "thyroid", "stress relief", "glutes"],
+"instructions": "Lie on your back with knees bent and feet flat on the floor, parallel and hip-width apart. Press your feet into the floor, lifting your hips toward the ceiling. Clasp your hands beneath your back and press your arms down.",
+"smp_l_key": "SMPL_Supine_BackbendLift",
+"visual_prompt": "A clear photo of a person in Setu Bandhasana (Bridge Pose), hips lifted high, focus on the chest and shoulder engagement."
+},
+{
+"pose_name": "Seated Forward Fold",
+"sanskrit_name": "Paschimottanasana",
+"benefits_list": ["hamstrings", "calm", "stress relief", "lower back stretch", "digestion"],
+"instructions": "Sit with legs extended straight in front of you. Inhale to lengthen your spine, then exhale as you hinge forward from your hips, reaching for your feet, shins, or the floor. Keep your back relatively straight.",
+"smp_l_key": "SMPL_Seated_FullFold",
+"visual_prompt": "A person in a deep Paschimottanasana (Seated Forward Fold), head resting on the knees or shins, emphasizing the long stretch along the back of the body."
+},
+{
+"pose_name": "Chair Pose",
+"sanskrit_name": "Utkatasana",
+"benefits_list": ["quads", "glutes", "ankles", "full body heat", "power"],
+"instructions": "Stand in Tadasana. Exhale and bend your knees as if sitting in a chair. Extend your arms overhead. Keep your weight in your heels and your chest lifted. Hold the pose, maintaining deep breathing.",
+"smp_l_key": "SMPL_Standing_SquatArmsUp",
+"visual_prompt": "An illustration of the strong, engaged posture of Utkatasana (Chair Pose), arms straight overhead, 45-degree angle of the torso."
+},
+{
+"pose_name": "Pigeon Pose",
+"sanskrit_name": "Eka Pada Rajakapotasana",
+"benefits_list": ["hip opener", "glutes", "sciatic nerve", "emotional release"],
+"instructions": "From Downward Dog, bring one knee forward to your mat, placing your foot toward the opposite hip. Extend the back leg straight. Stay upright or fold forward over your front leg for a deeper stretch.",
+"smp_l_key": "SMPL_Seated_HipOpener",
+"visual_prompt": "A flexible individual in a full Eka Pada Rajakapotasana (Pigeon Pose) folded forward over the bent knee, peaceful, soft focus."
+},
+{
+"pose_name": "Revolved Side Angle Pose",
+"sanskrit_name": "Parivrtta Parsvakonasana",
+"benefits_list": ["core", "twist", "digestion", "spine mobility", "focus", "detox"],
+"instructions": "From a lunge, bring the opposite elbow across the outside of the front knee. Press your palms together (or place your hand on the floor) and twist your upper body open. Maintain the lunge in the lower body.",
+"smp_l_key": "SMPL_Standing_TwistLunge",
+"visual_prompt": "A person demonstrating the deep spinal rotation in Parivrtta Parsvakonasana (Revolved Side Angle Pose), with the back leg straight and strong."
+},
+{
+"pose_name": "Plank Pose",
+"sanskrit_name": "Phalakasana",
+"benefits_list": ["core strength", "arms", "shoulders", "endurance", "full body strength"],
+"instructions": "From Downward Dog or hands and knees, walk your feet back until your body forms a straight line from the crown of your head to your heels. Engage your core and glutes. Keep your wrists directly under your shoulders.",
+"smp_l_key": "SMPL_Prone_StraightBody",
+"visual_prompt": "A clear, anatomical view of a person holding a perfect Phalakasana (Plank Pose), highlighting the straight line of the body."
+},
+{
+"pose_name": "Easy Pose (Seated)",
+"sanskrit_name": "Sukhasana",
+"benefits_list": ["meditation", "grounding", "hips", "anxiety", "comfort", "seated"],
+"instructions": "Sit comfortably on a cushion, crossing your shins. Keep your feet relaxed and tuck them under the opposite knees. Lengthen your spine and place your hands gently on your knees for meditation.",
+"smp_l_key": "SMPL_Seated_Meditation",
+"visual_prompt": "A peaceful figure seated cross-legged in Sukhasana (Easy Pose) on a bright meditation cushion, a ray of sunlight highlights the serene expression."
+},
+{
+"pose_name": "Half Lord of the Fishes Pose",
+"sanskrit_name": "Ardha Matsyendrasana",
+"benefits_list": ["spine twist", "digestion", "liver", "kidneys", "flexibility"],
+"instructions": "Sit with one leg extended or bent underneath. Bend the other knee and place the foot on the outside of the opposite thigh. Twist your torso toward the bent knee, using your opposite arm as leverage.",
+"smp_l_key": "SMPL_Seated_SpineTwist",
+"visual_prompt": "A detailed illustration of Ardha Matsyendrasana (Half Lord of the Fishes Pose), clearly showing the spinal twist and arm wrapping."
+},
+{
+"pose_name": "Four-Limbed Staff Pose",
+"sanskrit_name": "Chaturanga Dandasana",
+"benefits_list": ["arm strength", "triceps", "shoulders", "core strength", "vinyasa"],
+"instructions": "From Plank, shift your weight forward and lower your body halfway to the floor, keeping your elbows glued to your sides. Body remains in a straight line from head to heels, parallel to the floor.",
+"smp_l_key": "SMPL_Prone_LowPushup",
+"visual_prompt": "A person holding the challenging Chaturanga Dandasana (Four-Limbed Staff Pose), showing arms at 90-degree angle, body perfectly straight."
+},
+{
+"pose_name": "Crow Pose",
+"sanskrit_name": "Bakasana",
+"benefits_list": ["arm balance", "wrist strength", "core strength", "focus", "courage"],
+"instructions": "Squat down. Place your hands flat, shoulder-width apart. Place your knees high onto your upper arms (triceps). Shift your weight forward until your feet lift off the ground, rounding your back slightly.",
+"smp_l_key": "SMPL_ArmBalance_Crow",
+"visual_prompt": "A close-up of a person balancing perfectly in Bakasana (Crow Pose), showcasing the knee placement on the triceps and the stable gaze."
+},
+{
+"pose_name": "Legs-Up-the-Wall",
+"sanskrit_name": "Viparita Karani",
+"benefits_list": ["restorative", "tired legs", "calm", "insomnia", "headache", "stress"],
+"instructions": "Lie on your back with your hips against the wall. Extend your legs straight up the wall. Rest your arms by your sides. Stay for 5-15 minutes, allowing for full relaxation.",
+"smp_l_key": "SMPL_Restorative_Wall",
+"visual_prompt": "A person resting comfortably in Viparita Karani (Legs-Up-the-Wall Pose), legs vertical against a soft gray wall, high-angle view showing calm relaxation."
+},
+{
+"pose_name": "Corpse Pose",
+"sanskrit_name": "Savasana",
+"benefits_list": ["deep relaxation", "restorative", "stress relief", "meditation", "end practice"],
+"instructions": "Lie flat on your back, letting your feet fall open. Place your arms slightly away from your body, palms facing up. Close your eyes and allow your entire body to become completely still and heavy.",
+"smp_l_key": "SMPL_Supine_FullRelax",
+"visual_prompt": "A peaceful figure lying flat in Savasana (Corpse Pose), soft lighting, serene, emphasizing complete stillness."
+},
+{
+"pose_name": "Extended Side Angle Pose",
+"sanskrit_name": "Utthita Parsvakonasana",
+"benefits_list": ["side stretch", "hips", "stamina", "shoulders", "digestion", "leg strength"],
+"instructions": "From Warrior II, rest your front forearm on your front thigh. Extend the opposite arm over your ear, creating a long line from your back foot to your fingertips. Keep your chest open.",
+"smp_l_key": "SMPL_Standing_SideAngle",
+"visual_prompt": "An illustration of Utthita Parsvakonasana (Extended Side Angle Pose), emphasizing the long side-body stretch and open chest alignment."
+},
+{
+"pose_name": "Revolved Triangle Pose",
+"sanskrit_name": "Parivrtta Trikonasana",
+"benefits_list": ["spine twist", "balance", "hamstrings", "digestion", "detox", "focus"],
+"instructions": "From Triangle Pose stance, bring the opposite hand to the floor/shin of the front foot. Twist your torso towards the front leg, extending the other arm up. This is a deep, challenging twist.",
+"smp_l_key": "SMPL_Standing_RevolvedTwist",
+"visual_prompt": "A person in Parivrtta Trikonasana (Revolved Triangle Pose), clearly showing the deep spinal rotation and the straight, strong legs."
+},
+{
+"pose_name": "Half Moon Pose",
+"sanskrit_name": "Ardha Chandrasana",
+"benefits_list": ["balance", "core strength", "hips", "concentration", "chest opener"],
+"instructions": "From Triangle Pose, shift your weight onto your front foot, lifting the back leg until it's parallel to the floor. Place your bottom hand on the floor (or a block) and extend your top arm to the sky, opening the hips.",
+"smp_l_key": "SMPL_Balance_HalfMoon",
+"visual_prompt": "A yogi balancing gracefully in Ardha Chandrasana (Half Moon Pose), T-shaped body alignment, arms vertical, serene studio environment."
+},
+{
+"pose_name": "Eagle Pose",
+"sanskrit_name": "Garudasana",
+"benefits_list": ["shoulder stretch", "upper back", "balance", "joint mobility", "focus"],
+"instructions": "Cross one thigh over the other, tucking the foot behind the opposite calf. Cross the opposite arm underneath, bringing the palms together. Squeeze the limbs and sit low.",
+"smp_l_key": "SMPL_Standing_CrossedLimb",
+"visual_prompt": "A person demonstrating the complex wrap of Garudasana (Eagle Pose), focusing on the limb entanglement and centered balance."
+},
+{
+"pose_name": "Dancer's Pose",
+"sanskrit_name": "Natarajasana",
+"benefits_list": ["balance", "backbend", "shoulder stretch", "hip flexors", "concentration"],
+"instructions": "Stand on one leg. Grab the inside of the opposite foot with your hand. Kick the foot back and up, lifting your chest and extending your free arm forward. Focus on lifting the thigh high.",
+"smp_l_key": "SMPL_Balance_BackbendKick",
+"visual_prompt": "A person performing Natarajasana (Dancer's Pose) with a deep backbend, emphasizing the graceful curve of the body and extended arm."
+},
+{
+"pose_name": "Pyramid Pose",
+"sanskrit_name": "Parsvottanasana",
+"benefits_list": ["hamstrings", "hips", "shoulders", "forward fold", "calm"],
+"instructions": "Stand with feet wide, angling the back foot slightly inward. Square the hips forward. Fold over the front leg, keeping both legs straight. Interlace hands behind your back and lift them overhead.",
+"smp_l_key": "SMPL_Standing_HipForwardFold",
+"visual_prompt": "A clear, straight view of Parsvottanasana (Pyramid Pose), showing the deep hamstring stretch on the front leg."
+},
+{
+"pose_name": "Wide-Legged Forward FoldI",
+"sanskrit_name": "Prasarita Padottanasana",
+"benefits_list": ["inversion", "hamstrings", "calm", "mild headache", "legs"],
+"instructions": "Stand with feet wide apart, parallel to each other. Place your hands on your hips. Inhale to lengthen, exhale to fold forward, placing your hands on the floor, or grasping your big toes.",
+"smp_l_key": "SMPL_Standing_WideFold",
+"visual_prompt": "A person in Prasarita Padottanasana (Wide-Legged Forward Fold), head pointing down, demonstrating the wide base and parallel feet."
+},
+{
+"pose_name": "Wide-Legged Forward FoldII",
+"sanskrit_name": "Prasarita Padottanasana",
+"benefits_list": ["inversion", "hamstrings", "calm", "mild headache", "legs"],
+"instructions": "Stand with feet wide apart, parallel to each other. Place your hands on your hips. Inhale to lengthen, exhale to fold forward, grasp your big toes.",
+"smp_l_key": "SMPL_Standing_WideFold",
+"visual_prompt": "A person in Prasarita Padottanasana (Wide-Legged Forward Fold), head pointing down, demonstrating the wide base and parallel feet."
+},
+{
+"pose_name": "Reversed Warrior",
+"sanskrit_name": "Viparita Virabhadrasana",
+"benefits_list": ["side stretch", "chest opener", "core", "invigorating"],
+"instructions": "From Warrior II, flip your front palm up. Reach your front arm up and back, allowing the back hand to rest lightly on the back leg. Keep the deep bend in the front knee.",
+"smp_l_key": "SMPL_Standing_LateralReach",
+"visual_prompt": "An artistic depiction of Viparita Virabhadrasana (Reversed Warrior Pose), showing the dramatic side arc and uplifted chest."
+},
+{
+"pose_name": "Full Boat Pose",
+"sanskrit_name": "Paripurna Navasana",
+"benefits_list": ["core strength", "abdominal", "hip flexors", "digestion", "arms"],
+"instructions": "Sit with knees bent. Lean back slightly and lift your feet off the floor. Straighten your legs as much as possible, forming a V-shape with your torso. Extend your arms forward, parallel to the floor.",
+"smp_l_key": "SMPL_Seated_VPosition",
+"visual_prompt": "A person holding Paripurna Navasana (Full Boat Pose) with strong, straight lines and high leg lift, showcasing core engagement."
+},
+{
+"pose_name": "Staff Pose",
+"sanskrit_name": "Dandasana",
+"benefits_list": ["posture", "spinal alignment", "seated foundation", "core", "arms"],
+"instructions": "Sit tall with legs extended straight in front of you. Flex your feet. Place your palms flat on the floor beside your hips, pressing down to lift the spine. This is the foundation for seated poses.",
+"smp_l_key": "SMPL_Seated_90Degree",
+"visual_prompt": "A simple, precise illustration of Dandasana (Staff Pose), highlighting the perfectly vertical spine and engaged legs."
+},
+{
+"pose_name": "Reclined Hand-to-Big-Toe",
+"sanskrit_name": "Supta Padangusthasana",
+"benefits_list": ["hamstrings", "groin", "hips", "restorative", "lower back stretch"],
+"instructions": "Lie on your back. Loop a strap around one foot, or grasp the big toe. Extend that leg straight up toward the ceiling. Keep the other leg grounded and the hips level. Hold and release.",
+"smp_l_key": "SMPL_Supine_LegStretch",
+"visual_prompt": "A person lying on their back in Supta Padangusthasana (Reclined Hand-to-Big-Toe Pose), showing the leg extended vertically with the use of a yoga strap."
+},
+{
+"pose_name": "Wild Thing",
+"sanskrit_name": "Camatkarasana",
+"benefits_list": ["backbend", "chest opener", "shoulders", "invigorating", "confidence"],
+"instructions": "From Downward Dog, lift one leg, then step the foot behind your back, dropping the heel. Lift your hips high and arch your back, extending your top arm up and over your ear.",
+"smp_l_key": "SMPL_Backbend_AsymmetricalBridge",
+"visual_prompt": "A dramatic shot of Camatkarasana (Wild Thing Pose), emphasizing the high arched back, open chest, and dynamic pose."
+},
+{
+"pose_name": "Supported Shoulderstand",
+"sanskrit_name": "Salamba Sarvangasana",
+"benefits_list": ["inversion", "thyroid", "calm", "stress relief", "immune system"],
+"instructions": "Lie on your back, then lift your legs and torso straight up, supporting your back with your hands. Your body should form a straight line, supported on your shoulders and upper arms.",
+"smp_l_key": "SMPL_FullInversion_Shoulder",
+"visual_prompt": "A person holding Salamba Sarvangasana (Supported Shoulderstand) against a blue background, showing the perfectly vertical line of the body."
+},
+{
+"pose_name": "Plow Pose",
+"sanskrit_name": "Halasana",
+"benefits_list": ["spine stretch", "calm", "insomnia", "mild headache", "back flexibility"],
+"instructions": "From Shoulderstand, slowly lower your legs over your head until your toes touch the floor behind you. Keep your legs straight. Interlace your hands or extend your arms back.",
+"smp_l_key": "SMPL_Inversion_Plow",
+"visual_prompt": "A safe execution of Halasana (Plow Pose), emphasizing the straight spine and legs reaching over the head, tranquil setting."
+},
+{
+"pose_name": "Wheel Pose",
+"sanskrit_name": "Urdhva Dhanurasana",
+"benefits_list": ["deep backbend", "chest opener", "arms", "energy", "full spine flexibility"],
+"instructions": "Lie on your back, hands by your ears, fingers pointing towards your feet. Press into your hands and feet to lift your hips and chest off the floor, forming a strong arch.",
+"smp_l_key": "SMPL_DeepBackbend_FullArch",
+"visual_prompt": "A powerful image of Urdhva Dhanurasana (Wheel Pose), emphasizing the full arch of the back and the strength in the arms and legs."
+},
+{
+"pose_name": "Bow Pose",
+"sanskrit_name": "Dhanurasana",
+"benefits_list": ["backbend", "digestion", "chest opener", "shoulders", "posture"],
+"instructions": "Lie on your stomach. Bend your knees and reach back to hold your ankles or feet. Kick your legs back to lift your chest and thighs off the floor, forming the shape of a bow.",
+"smp_l_key": "SMPL_Prone_BackbendLift",
+"visual_prompt": "A person executing Dhanurasana (Bow Pose), showing the legs kicking back and the chest lifted high, prone position."
+},
+{
+"pose_name": "Camel Pose",
+"sanskrit_name": "Ustrasana",
+"benefits_list": ["backbend", "thyroid", "chest opener", "abdomen", "shoulder mobility"],
+"instructions": "Kneel upright, knees hip-width apart. Place your hands on your lower back. Gently arch back, reaching for your heels. Push your hips forward and lift your chest.",
+"smp_l_key": "SMPL_Kneeling_BackbendReach",
+"visual_prompt": "A person in Ustrasana (Camel Pose), emphasizing the open chest, forward-pushed hips, and deep backbend from a kneeling position."
+},
+{
+"pose_name": "Fish Pose",
+"sanskrit_name": "Matsyasana",
+"benefits_list": ["throat", "thyroid", "chest opener", "mild backbend", "breathing"],
+"instructions": "Lie on your back. Press onto your forearms and elbows, lifting your chest. Allow the crown of your head to rest gently on the floor. This opens the throat and chest.",
+"smp_l_key": "SMPL_Supine_ChestLift",
+"visual_prompt": "A clear view of Matsyasana (Fish Pose), highlighting the arch in the neck and the open, lifted chest."
+},
+{
+"pose_name": "Cow Face Pose",
+"sanskrit_name": "Gomukhasana",
+"benefits_list": ["shoulders", "hips", "thighs", "arm stretch", "posture"],
+"instructions": "Sit with one knee stacked directly above the other. Reach one arm up and drop the hand behind your back, while the other arm reaches up from below to grasp the fingers. Stretch both shoulders.",
+"smp_l_key": "SMPL_Seated_HipShoulderBind",
+"visual_prompt": "A close-up shot of the complex arm bind in Gomukhasana (Cow Face Pose), showing the simultaneous shoulder and hip stretch."
+},
+{
+"pose_name": "Fire Log Pose",
+"sanskrit_name": "Agnistambhasana",
+"benefits_list": ["deep hip opener", "glutes", "tight hips", "restorative"],
+"instructions": "Sit with shins stacked one directly on top of the other, ideally parallel to the front of the mat. Both feet are flexed. Fold forward if you want a deeper stretch.",
+"smp_l_key": "SMPL_Seated_DeepHipStack",
+"visual_prompt": "A person demonstrating the stacked shins of Agnistambhasana (Fire Log Pose), showing the deep external hip rotation."
+},
+{
+"pose_name": "Sage Marichi's Pose I",
+"sanskrit_name": "Marichyasana I",
+"benefits_list": ["spine twist", "digestion", "shoulders", "detox", "arm bind"],
+"instructions": "Sit in Dandasana. Bend one knee, placing the foot near the hip. Twist towards the bent knee, wrapping the opposite arm around the outside and binding the hands behind the back.",
+"smp_l_key": "SMPL_Seated_TwistBind",
+"visual_prompt": "A clear view of Marichyasana I, highlighting the full bind of the arms behind the back and the tall, twisted spine."
+},
+{
+"pose_name": "Compass Pose",
+"sanskrit_name": "Parivrtta Surya Yantrasana",
+"benefits_list": ["side stretch", "hamstrings", "shoulder opener", "flexibility", "hips"],
+"instructions": "Sit, hug one knee, then place that leg's foot behind the opposite shoulder. Straighten the leg upward, grasping the foot or ankle with the opposite hand. Stretch your spine up and twist open.",
+"smp_l_key": "SMPL_Seated_FootBehindHead",
+"visual_prompt": "A flexible yogi in Parivrtta Surya Yantrasana (Compass Pose), emphasizing the straight, high leg and the open side body."
+},
+{
+"pose_name": "Gate Pose",
+"sanskrit_name": "Parighasana",
+"benefits_list": ["side stretch", "lungs", "obliques", "ribcage expansion", "kneeling"],
+"instructions": "Kneel, extending one leg straight out to the side. Extend the same side arm down the leg and reach the opposite arm up and over your head, bending deeply to the side.",
+"smp_l_key": "SMPL_Kneeling_LateralFlexion",
+"visual_prompt": "A person executing Parighasana (Gate Pose) from a kneeling position, showcasing the deep lateral bend and extended limbs."
+},
+{
+"pose_name": "Heron Pose",
+"sanskrit_name": "Krounchasana",
+"benefits_list": ["hamstrings", "shoulders", "abdomen", "seated stretch", "calves"],
+"instructions": "Sit with one leg bent back (like Virasana). Bend the other knee and loop your hands around the foot. Straighten the leg upward as much as possible, pulling it closer to your torso.",
+"smp_l_key": "SMPL_Seated_LegUpTorso",
+"visual_prompt": "A person in Krounchasana (Heron Pose), emphasizing the vertical stretch of the leg while maintaining a seated, stable base."
+},
+{
+"pose_name": "Tortoise Pose",
+"sanskrit_name": "Kurmasana",
+"benefits_list": ["deep hip fold", "calm", "nervous system", "restorative", "meditation"],
+"instructions": "Sit, open your legs wide, and bend your knees. Slide your arms underneath your bent knees, folding forward. Stretch your arms out to the sides like fins, bringing your forehead to the floor.",
+"smp_l_key": "SMPL_Seated_ShoulderUnder",
+"visual_prompt": "A person fully folded into Kurmasana (Tortoise Pose), arms extended out and back, body low to the ground, peaceful setting."
+},
+{
+"pose_name": "Happy Baby Pose",
+"sanskrit_name": "Ananda Balasana",
+"benefits_list": ["hips", "groin", "restorative", "lower back release", "calm"],
+"instructions": "Lie on your back. Bend your knees toward your chest. Grasp the outsides of your feet. Open your knees wide and gently pull your knees toward your armpits, keeping your lower back grounded.",
+"smp_l_key": "SMPL_Supine_HipOpener",
+"visual_prompt": "A joyful depiction of Ananda Balasana (Happy Baby Pose), showing the soles of the feet pointing up and wide-open hips."
+},
+{
+"pose_name": "Reclining Spinal Twist",
+"sanskrit_name": "Supta Matsyendrasana",
+"benefits_list": ["spine twist", "lower back release", "digestion", "restorative", "stress relief"],
+"instructions": "Lie on your back. Draw one knee into your chest, then drop it across your body to the opposite side. Extend your arms out to the sides and gaze away from the bent knee.",
+"smp_l_key": "SMPL_Supine_GentleTwist",
+"visual_prompt": "A person relaxing into Supta Matsyendrasana (Reclining Spinal Twist), demonstrating the full spinal release and grounded shoulders."
+},
+{
+"pose_name": "Noose Pose",
+"sanskrit_name": "Pasasana",
+"benefits_list": ["deep squat", "ankles", "knees", "spine twist", "detox"],
+"instructions": "Squat down, keeping feet together and heels down (if possible). Twist your torso to one side, bringing the opposite elbow outside the knees. Bind your hands or press them together in prayer.",
+"smp_l_key": "SMPL_Squat_DeepTwist",
+"visual_prompt": "A precise illustration of Pasasana (Noose Pose), showing the deep, full squat and the powerful spinal twist."
+},
+{
+"pose_name": "Feathered Peacock Pose",
+"sanskrit_name": "Pincha Mayurasana",
+"benefits_list": ["inversion", "forearm strength", "shoulders", "core strength", "focus"],
+"instructions": "Kneel, placing your forearms on the floor, parallel to each other. Press into your forearms and lift your hips up. Walk your feet close, then kick one leg up and balance, bringing the other leg to meet it.",
+"smp_l_key": "SMPL_FullInversion_Forearm",
+"visual_prompt": "A skilled practitioner holding Pincha Mayurasana (Feathered Peacock Pose), showcasing the straight vertical body line supported only by the forearms."
+},
+{
+"pose_name": "Locust Pose",
+"sanskrit_name": "Salabhasana",
+"benefits_list": ["back strength", "glutes", "lower back pain", "shoulders", "posture"],
+"instructions": "Lie on your stomach. Place your arms alongside your body, palms down. On an inhale, lift your head, chest, and legs off the floor, engaging your back muscles and glutes.",
+"smp_l_key": "SMPL_Prone_BackLift",
+"visual_prompt": "A person in Salabhasana (Locust Pose), emphasizing the lift of both the upper and lower body off the mat, engaging the back muscles."
+},
+{
+"pose_name": "Boat Pose",
+"sanskrit_name": "Ardha Navasana",
+"benefits_list": ["core strength", "abdominal", "arms", "endurance", "mild back pain"],
+"instructions": "Start in Full Boat. Slowly lower your legs and torso toward the floor until they hover just above the ground. Hold this tight, low V-shape, maintaining tension in the core.",
+"smp_l_key": "SMPL_Seated_LowVPosition",
+"visual_prompt": "A person holding Ardha Navasana (Half Boat Pose), showing the low, powerful engagement of the core and extended limbs."
+},
+{
+"pose_name": "Crane Pose",
+"sanskrit_name": "Bakasana",
+"benefits_list": ["arm balance", "wrist strength", "focus", "core strength", "courage"],
+"instructions": "Squat down, placing hands flat. Place your shins high onto your upper arms. Shift your weight forward, using your core strength to lift your feet off the floor.",
+"smp_l_key": "SMPL_ArmBalance_CrowLift",
+"visual_prompt": "A close-up of a person balancing perfectly in Bakasana (Crane Pose), showcasing the knee placement high on the triceps."
+},
+{
+"pose_name": "Upward Salute",
+"sanskrit_name": "Urdhva Hastasana",
+"benefits_list": ["chest opener", "shoulders", "spine lengthening", "breathing", "beginner"],
+"instructions": "Stand in Mountain Pose. Inhale, sweep your arms out and up toward the ceiling. Press your palms together (or keep them separate) and gaze up to your thumbs. Gently arch your back.",
+"smp_l_key": "SMPL_Standing_ArmsUp",
+"visual_prompt": "A person in Urdhva Hastasana (Upward Salute), demonstrating the full vertical reach and gentle back arch."
+},
+{
+"pose_name": "Extended Hand-to-Big-Toe",
+"sanskrit_name": "Utthita Hasta Padangusthasana",
+"benefits_list": ["balance", "hamstrings", "hip flexors", "concentration", "full leg stretch"],
+"instructions": "Stand on one leg. Lift the other leg and grasp the big toe with the same side hand. Extend the leg forward, then potentially open it out to the side while maintaining balance.",
+"smp_l_key": "SMPL_Balance_LegExtended",
+"visual_prompt": "A skilled yogi balancing on one leg in Utthita Hasta Padangusthasana, with the other leg extended straight out to the side."
+},
+{
+"pose_name": "Revolved Half Moon",
+"sanskrit_name": "Parivrtta Ardha Chandrasana",
+"benefits_list": ["deep twist", "balance", "core strength", "digestion", "detox"],
+"instructions": "From a low lunge, place the back hand on the floor. Extend the front leg (like Half Moon), then twist the torso toward the floor, extending the front arm toward the ceiling.",
+"smp_l_key": "SMPL_Balance_TwistedHalfMoon",
+"visual_prompt": "A person executing the challenging Parivrtta Ardha Chandrasana (Revolved Half Moon), showing the deep spinal rotation in a balancing position."
+},
+{
+"pose_name": "Garland Pose",
+"sanskrit_name": "Malasana",
+"benefits_list": ["squat", "hips", "groin", "ankles", "lower back"],
+"instructions": "Stand with feet wide. Bend your knees deeply, coming into a squat. Bring your hands to prayer and press your elbows against your inner thighs to open the hips. Keep your spine long.",
+"smp_l_key": "SMPL_Squat_KneesOut",
+"visual_prompt": "A full-body view of Malasana (Garland Pose), showing the deep squat and the hands pressed together in the center."
+},
+{
+"pose_name": "Lion's Pose",
+"sanskrit_name": "Simhasana",
+"benefits_list": ["throat", "face muscles", "stress relief", "tension release", "communication"],
+"instructions": "Kneel or sit cross-legged. Inhale deeply. On the exhale, open your mouth wide, stick your tongue out, and roar (a big 'ha' sound). Gaze up at the spot between your eyebrows.",
+"smp_l_key": "SMPL_Seated_FaceMudra",
+"visual_prompt": "A humorous, expressive close-up of a person performing Simhasana (Lion's Pose), sticking out the tongue and opening the eyes wide."
+},
+{
+"pose_name": "Thread the Needle",
+"sanskrit_name": "Parsva Balasana",
+"benefits_list": ["shoulder stretch", "upper back", "neck", "restorative", "calm"],
+"instructions": "Start on hands and knees. Thread one arm underneath the chest, palm up, resting your shoulder and ear on the floor. Extend the opposite arm forward or wrap it around your back.",
+"smp_l_key": "SMPL_Kneeling_ShoulderTwist",
+"visual_prompt": "A person relaxing deeply into Parsva Balasana (Thread the Needle Pose), showing the deep stretch in the shoulder and upper back."
+},
+{
+"pose_name": "One-Legged King Pigeon Pose",
+"sanskrit_name": "Eka Pada Rajakapotasana",
+"benefits_list": ["deep backbend", "shoulders", "hip flexors", "chest opener", "flexibility"],
+"instructions": "From Pigeon Pose, bend the back knee, reaching back to hold the foot or ankle. Draw the foot toward the head, lifting the chest and arching the back deeply, aiming to form a crown with the foot.",
+"smp_l_key": "SMPL_DeepBackbend_OneLegPigeon",
+"visual_prompt": "A highly flexible yogi demonstrating the deep backbend and foot-to-head contact in Eka Pada Rajakapotasana (One-Legged King Pigeon Pose)."
+},
+{
+"pose_name": "Full Splits",
+"sanskrit_name": "Hanumanasana",
+"benefits_list": ["hamstrings", "hip flexors", "groin", "flexibility", "calves"],
+"instructions": "Starting from a low lunge, slowly slide the front foot forward and the back knee backward until both legs are fully straight and hips are level with the floor. Maintain a straight, upright torso.",
+"smp_l_key": "SMPL_DeepStretch_FullSplit",
+"visual_prompt": "An accurate illustration of Hanumanasana (Full Splits), showing the torso perfectly vertical over the line of the legs, deep flexibility."
+},
+{
+"pose_name": "Firefly Pose",
+"sanskrit_name": "Tittibhasana",
+"benefits_list": ["arm balance", "core strength", "wrist strength", "hamstrings", "focus"],
+"instructions": "Squat down and slide your shoulders and arms beneath your bent knees. Plant your hands and lift your hips. Straighten your arms and then straighten your legs forward, balancing on your hands.",
+"smp_l_key": "SMPL_ArmBalance_LegsStraight",
+"visual_prompt": "A close-up view of Tittibhasana (Firefly Pose), emphasizing the straight legs extended forward from the seated arm balance."
+},
+{
+"pose_name": "Eight-Angle Pose",
+"sanskrit_name": "Astavakrasana",
+"benefits_list": ["arm balance", "core strength", "twist", "focus", "arms"],
+"instructions": "From a seated position, loop one leg over the shoulder. Place hands down and shift weight, crossing the ankles. Straighten the arms, lifting the entire body off the floor, keeping the legs parallel to the ground.",
+"smp_l_key": "SMPL_ArmBalance_TwistedL",
+"visual_prompt": "A person holding the complex eight-point shape of Astavakrasana (Eight-Angle Pose), showing the legs twisted and extended to the side."
+},
+{
+"pose_name": "Scale Pose",
+"sanskrit_name": "Tolasana",
+"benefits_list": ["arm strength", "core strength", "abdominal", "meditative lift"],
+"instructions": "Sit in Lotus Pose (Padmasana). Place your hands flat beside your hips. Press into your palms and use your core strength to lift your entire lower body (legs and hips) off the floor.",
+"smp_l_key": "SMPL_ArmBalance_LotusLift",
+"visual_prompt": "A person demonstrating Tolasana (Scale Pose), showing the full lift of the body in Lotus position off the mat, emphasizing arm and core strength."
+},
+{
+"pose_name": "Lotus Pose",
+"sanskrit_name": "Padmasana",
+"benefits_list": ["meditation", "hip opener", "ankles", "knees", "calm", "seated"],
+"instructions": "Sit with a straight spine. Bend one leg and place the foot high on the opposite hip crease. Repeat with the second leg. This is the ultimate pose for seated meditation.",
+"smp_l_key": "SMPL_Seated_FullLotus",
+"visual_prompt": "A figure sitting perfectly still in Padmasana (Lotus Pose), serene environment, emphasizing deep hip external rotation."
+},
+{
+"pose_name": "Bound Angle Pose",
+"sanskrit_name": "Baddha Konasana",
+"benefits_list": ["hip opener", "groin", "knees", "calm", "restorative"],
+"instructions": "Sit tall, bringing the soles of your feet together, letting your knees drop out to the sides. Hold your feet with your hands and gently hinge forward if desired.",
+"smp_l_key": "SMPL_Seated_Butterfly",
+"visual_prompt": "A person seated in Baddha Konasana (Bound Angle Pose), emphasizing the gentle yet deep stretch in the inner thighs and groin."
+},
+{
+"pose_name": "Supine Bound Angle Pose",
+"sanskrit_name": "Supta Baddha Konasana",
+"benefits_list": ["restorative", "stress relief", "hips", "insomnia", "calm"],
+"instructions": "From a seated Bound Angle, gently recline onto your back. You can place props (blocks or pillows) under your knees for support. Let your hands rest by your sides, palms up.",
+"smp_l_key": "SMPL_Supine_RestorativeHips",
+"visual_prompt": "A peaceful figure resting in Supta Baddha Konasana (Supine Bound Angle Pose), using props for a fully supported and restorative posture."
+},
+{
+"pose_name": "Reverse Plank",
+"sanskrit_name": "Purvottanasana",
+"benefits_list": ["shoulders", "chest opener", "wrist strength", "back strength", "posture"],
+"instructions": "Sit in Dandasana. Place your hands behind you, fingers pointing toward your feet. Press into your hands and feet, lifting your hips high until your body forms a straight, diagonal line.",
+"smp_l_key": "SMPL_Backbend_ReversePlank",
+"visual_prompt": "A clear photo of Purvottanasana (Reverse Plank Pose), showing the straight diagonal line from the head to the heels, engaged glutes."
+},
+{
+"pose_name": "Lord of the Dance",
+"sanskrit_name": "Natarajasana Baddha",
+"benefits_list": ["deep backbend", "shoulder bind", "flexibility", "balance", "concentration"],
+"instructions": "An advanced version where you grasp the foot or ankle and bring the sole of the foot to the crown of the head, requiring extreme back flexibility and balance.",
+"smp_l_key": "SMPL_Balance_DeepBackbendBind",
+"visual_prompt": "A highly advanced yogi demonstrating Natarajasana Baddha (Advanced Dancer's Pose) with the foot touching the crown of the head."
+},
+{
+"pose_name": "Humble Warrior",
+"sanskrit_name": "Baddha Virabhadrasana",
+"benefits_list": ["hip opener", "shoulder bind", "forward fold", "calm", "inner thighs"],
+"instructions": "From Warrior I, interlace your hands behind your back. Fold forward inside the front thigh, allowing your shoulders to move towards the floor. Lift your clasped hands toward the ceiling.",
+"smp_l_key": "SMPL_Standing_ShoulderFold",
+"visual_prompt": "A person in Baddha Virabhadrasana (Humble Warrior Pose), showing the deep forward fold inside the front leg and the arms reaching overhead."
+},
+{
+"pose_name": "Headstand",
+"sanskrit_name": "Salamba Sirsasana",
+"benefits_list": ["full inversion", "focus", "circulation", "calm", "core strength"],
+"instructions": "Interlace your fingers, forming a tripod with your forearms and the crown of your head. Walk your feet in, lift your hips, and slowly bring your legs up into a vertical line.",
+"smp_l_key": "SMPL_FullInversion_Head",
+"visual_prompt": "A person holding a straight, controlled Salamba Sirsasana (Supported Headstand), emphasizing the strong base provided by the forearms."
+},
+{
+"pose_name": "Handstand",
+"sanskrit_name": "Adho Mukha Vrksasana",
+"benefits_list": ["full inversion", "arm strength", "shoulders", "courage", "balance"],
+"instructions": "From Downward Dog, look between your hands. Kick one leg up, followed by the other, stacking your hips over your shoulders and your heels over your hips. Press firmly into your palms.",
+"smp_l_key": "SMPL_FullInversion_Hand",
+"visual_prompt": "A powerful image of Adho Mukha Vrksasana (Handstand), showing a perfectly straight, vertical line of the body, strong arms."
+},
+{
+"pose_name": "Ear Pressure Pose (Variation)",
+"sanskrit_name": "Karnapidasana",
+"benefits_list": ["deep neck stretch", "calm", "insomnia", "spine mobility", "restorative"],
+"instructions": "From Plow Pose, bend your knees and rest them on the floor beside your ears. Clasp your hands and press them down. This is a very deep forward fold and inversion.",
+"smp_l_key": "SMPL_Inversion_KneeFold",
+"visual_prompt": "A person folded into Karnapidasana (Ear Pressure Pose), showing the knees tightly pressed against the ears, deeply relaxing."
+},
+{
+"pose_name": "Upward Facing Dog",
+"sanskrit_name": "Urdhva Mukha Svanasana",
+"benefits_list": ["back extension", "chest opener", "shoulders", "posture", "vinyasa"],
+"instructions": "From Chaturanga, flip your feet so the tops are on the floor. Straighten your arms, lift your hips and thighs off the ground, and gaze forward or slightly up. Only your hands and the tops of your feet touch the floor.",
+"smp_l_key": "SMPL_Backbend_FeetUp",
+"visual_prompt": "A clear view of Urdhva Mukha Svanasana (Upward Facing Dog), emphasizing the lifted hips and thighs and the open chest."
+},
+{
+"pose_name": "Wild Thing (Advanced Variation)",
+"sanskrit_name": "Viparita Navasana",
+"benefits_list": ["deep backbend", "shoulder stability", "invigorating", "full body opening"],
+"instructions": "A challenging variation of Wild Thing where the free hand reaches down to touch the ground beside the supporting hand, requiring more shoulder stability and back flexibility.",
+"smp_l_key": "SMPL_Backbend_AdvancedAsymmetrical",
+"visual_prompt": "A high-level practitioner demonstrating a deep Camatkarasana variation, touching the ground with the free hand, emphasizing shoulder opening."
+},
+{
+"pose_name": "Half Shoulderstand",
+"sanskrit_name": "Ardha Sarvangasana",
+"benefits_list": ["mild inversion", "legs", "thyroid", "restorative", "stress relief"],
+"instructions": "Lie on your back, lift your hips off the floor, and support them with your hands, keeping your elbows grounded. Your legs are extended straight up. This is a gentler inversion than the full pose.",
+"smp_l_key": "SMPL_Inversion_Half",
+"visual_prompt": "A person in Ardha Sarvangasana (Half Shoulderstand), showing the support from the hands on the lower back, a simple, restorative inversion."
+},
+{
+"pose_name": "Head-to-Knee Forward Bend",
+"sanskrit_name": "Janu Sirsasana",
+"benefits_list": ["hamstrings", "hips", "forward fold", "digestion", "calm"],
+"instructions": "Sit with one leg extended. Bend the other knee and place the sole of the foot against the inner thigh of the straight leg. Fold forward over the straight leg, grasping the foot or shin.",
+"smp_l_key": "SMPL_Seated_AsymmetricalFold",
+"visual_prompt": "A clear side view of Janu Sirsasana (Head-to-Knee Forward Bend), emphasizing the deep fold over the straight leg."
+},
+{
+"pose_name": "Reclined Cobbler's Pose",
+"sanskrit_name": "Supta Virasana",
+"benefits_list": ["deep thigh stretch", "quads", "hip flexors", "restorative", "knees"],
+"instructions": "Kneel with your feet on either side of your hips (Virasana). Gently recline backward onto your elbows or all the way onto the floor. This is a very deep stretch for the quads and knees.",
+"smp_l_key": "SMPL_Kneeling_Reclined",
+"visual_prompt": "A person resting fully reclined in Supta Virasana (Reclined Hero's Pose), showcasing the deep stretch in the front of the thighs."
+},
+{
+"pose_name": "Shining Face Pose",
+"sanskrit_name": "Kapalabhati Pranayama",
+"benefits_list": ["breathing", "cleansing", "energy", "focus", "abdomen"],
+"instructions": "Sit in a comfortable seated pose. Perform rapid, forceful exhalations through the nose, immediately followed by passive inhalations. Focus on the core engagement during the exhale. (Breathing exercise, not a fixed posture).",
+"smp_l_key": "SMPL_Seated_Breathing",
+"visual_prompt": "A portrait of a serene person seated in meditation, focusing on deep breathing, symbolizing Kapalabhati Pranayama."
+},
+{
+"pose_name": "Yogi Staff Pose (Three-Legged Down Dog)",
+"sanskrit_name": "Tri Pada Adho Mukha Svanasana",
+"benefits_list": ["arms", "shoulders", "core strength", "hip flexors", "invigorating"],
+"instructions": "From Downward-Facing Dog, lift one leg high toward the ceiling, keeping the hips relatively square, then bend the knee and open the hip to stack the hips.",
+"smp_l_key": "SMPL_Inversion_ThreeLeg",
+"visual_prompt": "A clear view of Tri Pada Adho Mukha Svanasana (Three-Legged Down Dog), showing one leg extended straight up, long line from hands to heel."
+},
+{
+"pose_name": "Sage Koundinya’s Pose II",
+"sanskrit_name": "Dwi Pada Koundinyasana II",
+"benefits_list": ["advanced arm balance", "core strength", "twist", "focus", "arms"],
+"instructions": "From a deep twist, transition into an arm balance where both legs are extended to one side, parallel to the floor, balancing on two hands.",
+"smp_l_key": "SMPL_ArmBalance_LegsTwistedSide",
+"visual_prompt": "An expert yogi executing Dwi Pada Koundinyasana II, showing the complex lateral extension and balance on the hands."
+},
+{
+"pose_name": "Supported Headstand",
+"sanskrit_name": "Mukta Hasta Sirsasana A",
+"benefits_list": ["full inversion", "arms", "shoulders", "focus", "core strength"],
+"instructions": "Place the crown of your head on the floor, hands shoulder-width apart, forming the three points of the tripod. Press into your hands to stabilize, then lift your legs straight overhead.",
+"smp_l_key": "SMPL_FullInversion_TripodHead",
+"visual_prompt": "A clear illustration of Mukta Hasta Sirsasana A (Tripod Headstand), emphasizing the triangle formed by the head and two hands."
+}
+]
